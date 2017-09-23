@@ -1,0 +1,1 @@
+This is a variation of the portable case designed with an inset lid. I think this design would require some bracing on the inside to attach the lid and bottom in order to be as strong as the previous design.r
