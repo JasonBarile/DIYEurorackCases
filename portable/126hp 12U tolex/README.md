@@ -1,0 +1,1 @@
+Here's a basic 126hp portable case intended to be made from plywood and covered in vinyl or Tolex. Each case half has ~90mm of space. If you use a power supply like Synthrotek Case Power Blue, this would leave 65mm for module depth, which should be plenty.
